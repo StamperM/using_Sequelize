@@ -29,5 +29,5 @@
 
   ## Questions 
  
-  [GitHub]([StamperM](https://github.com/StamperM))
+  [GitHub](https://github.com/StamperM)
 
